@@ -25,5 +25,7 @@ Analysis to be done: Perform data preprocessing and build a deep learning predic
 * Modeling : After applying EDA and feature engineering, you are now ready to build the predictive models
 
   In this part, you will create a deep learning model using Keras with Tensorflow backend
+  
+  ![Data Analysis](https://image.slidesharecdn.com/lcdefaultpredicitondeepborkar-200107053820/95/default-prediction-analysis-on-lending-club-loan-data-2-638.jpg?cb=1578375696)
 
 
